@@ -1,4 +1,4 @@
-# Churros Samosa Classifier
+# Food Classifier
 
 ### Tools used
 
@@ -18,8 +18,8 @@ You can decide which two foods you want to classify by changing:
 
 ```python
 #Deciding which two foods we want to classify
-labelA = 'samosa'
-labelB = 'churros'
+labelA = 'spring_rolls'
+labelB = 'grilled_cheese_sandwich'
 ```
 
 Of course it is also possible to train all the foods contained in the [Food-101 Dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/) but in order to achieve this you have to modify the code a bit.
